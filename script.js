@@ -36,5 +36,5 @@ function getRandomColor() {
 	  var time = (end - start) / 1000;
   
 	   document.getElementById("timeTaken").innerHTML = time +"s";
-	   appearAfterDelay();
+		appearAfterDelay();
 	}
